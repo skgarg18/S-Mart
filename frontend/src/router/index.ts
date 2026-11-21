@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { jwtDecode } from "jwt-decode";
 
 import HomeView from "../views/HomeView.vue";
 import CartView from "../views/CartView.vue";
